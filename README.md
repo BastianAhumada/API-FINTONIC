@@ -12,7 +12,15 @@ Click on live
 IN TEST MODE CREATE A NEW LINK
 ![image](https://user-images.githubusercontent.com/86070060/156949970-1d960507-afe1-47a8-a5bc-4c00c5e9e16b.png)
 
-FOLLOW FINTOC STEPS AND CREATE YOUR CREDENTIALS
+**FOLLOW FINTOC STEPS AND CREATE YOUR CREDENTIALS**
 
 # Installation
 Install using npm
+![image](https://user-images.githubusercontent.com/86070060/156950302-34912b39-d5b4-46d3-be3a-0ebed5803779.png)
+
+
+
+![image](https://user-images.githubusercontent.com/86070060/156950403-f99403e8-473d-4c62-a3d2-009de22fb110.png)
+
+
+Create a file with extensions .env and create those variables
