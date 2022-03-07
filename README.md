@@ -55,14 +55,14 @@ Run the proyect, write in your terminal **npx nodemon src/index.js**
 Results in screen
 
 
-**> [{"account_id":"EAeN5Kx8TWYKyV8D",
+```> [{"account_id":"EAeN5Kx8TWYKyV8D",
 > "account_name":"Sancho Sauceda Niño",
 > "type":"checking_account",
 > "number":"422159212",
 > "name":"Cuenta Corriente",
 > "totalavailibe":11603318,
 > "totalcurrent":11603318,
-> "limit":11603318}]**
+> "limit":11603318}]```
 
 
 **Banco Bci**
