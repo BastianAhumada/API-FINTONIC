@@ -62,7 +62,8 @@ Results in screen
 > "name":"Cuenta Corriente",
 > "totalavailibe":11603318,
 > "totalcurrent":11603318,
-> "limit":11603318}]```
+> "limit":11603318}]
+```
 
 
 **Banco Bci**
