@@ -15,7 +15,9 @@ IN TEST MODE CREATE A NEW LINK
 **FOLLOW FINTOC STEPS AND CREATE YOUR CREDENTIALS**
 
 # Installation
+
 Install using npm
+
 ![image](https://user-images.githubusercontent.com/86070060/156950302-34912b39-d5b4-46d3-be3a-0ebed5803779.png)
 
 Create a file with extensions .env and create those variables
