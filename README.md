@@ -23,15 +23,17 @@ Cancel changes
 
 Install using npm
 
+
 >npm install
 
 
 Create a file with extensions .env and open this file and write your credentials
+
+
 > SECRETKEY = "Your Secret Key entered by fintoc"
 > 
 > LINK_TOKEN = Your_link_token
 
-![image](https://user-images.githubusercontent.com/86070060/156950403-f99403e8-473d-4c62-a3d2-009de22fb110.png)
 
 
 
