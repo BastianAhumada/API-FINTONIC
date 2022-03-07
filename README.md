@@ -42,9 +42,9 @@ Create a file with extensions .env and open this file and write your credentials
 Run the proyect, write in your terminal **npx nodemon src/index.js**
 
 
-#DEMO
+# DEMO
 
-BancoEstado
+**BancoEstado**
 
 
 ![image](https://user-images.githubusercontent.com/86070060/157065133-d2bb3d66-6a96-4e67-844b-2cdf7fccc679.png)
@@ -52,22 +52,20 @@ BancoEstado
 
 **Obtener Datos Personales**
 
+Results in screen
+
 
 > [{"account_id":"EAeN5Kx8TWYKyV8D",
-> 
 > "account_name":"Sancho Sauceda Niño",
-> 
 > "type":"checking_account",
 > "number":"422159212",
 > "name":"Cuenta Corriente",
 > "totalavailibe":11603318,
 > "totalcurrent":11603318,
 > "limit":11603318}]
-> 
-> 
 
 
-Banco Bci
+**Banco Bci**
 
 ![image](https://user-images.githubusercontent.com/86070060/157065351-f3100412-5ff0-494d-92ec-a0743623d8ae.png)
 
