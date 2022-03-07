@@ -1,1 +1,1 @@
-# api-fintonic
+# Installation
